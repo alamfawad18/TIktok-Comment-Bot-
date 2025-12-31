@@ -2,6 +2,17 @@
 
 >TikTok Comment Bot Android is an **Android-based TikTok comment bot** designed to automate commenting, replying, and engagement actions directly within the TikTok mobile app. It enables controlled **TikTok auto comment** and reply workflows on videos and live streams using real device interaction instead of browser simulation. The project focuses on reliable mobile automation for high-frequency comment activity while maintaining pacing, consistency, and execution safety.
 
+<p align="center">
+  <a href="https://t.me/devpilot1" target="_blank"><img src="https://img.shields.io/badge/Chat%20on-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:support@appilot.app" target="_blank"><img src="https://img.shields.io/badge/Email-support@appilot.app-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://Appilot.app" target="_blank"><img src="https://img.shields.io/badge/Visit-Website-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="https://discord.gg/3YrZJZ6hA2" target="_blank"><img src="https://img.shields.io/badge/Join-Appilot_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Appilot Discord"></a>
+</p>
+<p align="center">
+Created by Appilot, built to showcase our approach to Automation! <br>
+If you are looking for custom <strong> TikTok Comment Bot </strong>, you've just found your team — Let’s Chat.&#128070; &#128070;
+</p>
+
 ## Introduction
 
 Engaging with TikTok audiences through comments and live replies requires constant attention, fast response times, and repetitive manual actions inside the mobile app. As engagement volume increases, managing this manually becomes inefficient and difficult to scale.
@@ -35,22 +46,6 @@ This automation replaces manual interaction with a structured **TikTok auto comm
 | Activity Logging | Records comment actions, replies, and execution metrics |
 
 ---
-
-<p align="center">
-  <a href="https://Appilot.app" target="_blank"><img src="https://github.com/Instagram-Automations/Footer-test/blob/main/appilot-baner.png" alt="Appilot Banner" width="100%"></a>
-</p>
-<p align="center">
-  <a href="https://t.me/devpilot1" target="_blank"><img src="https://img.shields.io/badge/Chat%20on-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-  <a href="mailto:support@appilot.app" target="_blank"><img src="https://img.shields.io/badge/Email-support@appilot.app-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-  <a href="https://Appilot.app" target="_blank"><img src="https://img.shields.io/badge/Visit-Website-007BFF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
-  <a href="https://discord.gg/3YrZJZ6hA2" target="_blank"><img src="https://img.shields.io/badge/Join-Appilot_Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Appilot Discord"></a>
-</p>
-<p align="center">
-Created by Appilot, built to showcase our approach to Automation! <br>
-If you are looking for custom <strong> TikTok Comment Bot </strong>, you've just found your team — Let’s Chat.&#128070; &#128070;
-</p>
-
-
 
 ## How It Works
 
